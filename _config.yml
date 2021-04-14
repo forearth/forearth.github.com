@@ -20,13 +20,13 @@ navbar-links:
 
 
 # [수정필요] 아바타 로고 사용 시에는 이미지 파일을 지정 (이미지 파일 업로드 후, 위치 지정)
-avatar: "/assets/img/sangyong-square-2.jpg"
+avatar: "/assets/img/sangyong.jpg"
 # 원형 아바타 이미지 여부 `true` 또는 `false`
 round-avatar: true
 
 # title text 대신 이미지 사용하고 싶은 경우 설정
 # then specify the following parameter
-#title-img: "/assets/img/seokho-square.jpg"
+# title-img: "/assets/img/sangyong.jpg"
 
 
 # --- Footer options --- #
@@ -65,7 +65,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-# url-pretty: "MyWebsite.com"
+url-pretty: "yonggari.com"
 
 # Create a "tags" index page and make tags on each post clickable
 link-tags: true
