@@ -2,7 +2,7 @@
 layout: page
 title: 따보 이상용
 subtitle: 생활 속 문제 해결 연구소<br/>(문제정의부터 해결과정까지 공유하는 연구소)
-cover-img: /assets/img/sangyong.jpg
+cover-img: /assets/img/banner.jpg
 ---
 
 
